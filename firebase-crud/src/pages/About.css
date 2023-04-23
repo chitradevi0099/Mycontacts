@@ -1,0 +1,31 @@
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .about-container-left {
+   
+    margin: 0 auto;
+    padding: 20px;
+    flex: left;
+  }
+  
+  .about-heading {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ee076b;
+  }
+  
+  .about-text {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    margin-bottom: 20px;
+  }
+  
+  .about-text:last-child {
+    margin-bottom: 0;
+  }
+  
